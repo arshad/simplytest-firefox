@@ -7,7 +7,5 @@ This extensions add a simplytest link next to project releases when browsing dru
 
 ## Download
 
-https://chrome.google.com/webstore/detail/simplytestme/ajlngamggfmnpkfaenoahgeppofjlmaf
-
 ![alt tag](https://raw.githubusercontent.com/arshad/simplytest-chrome/master/app/images/screenshot.png)
 
